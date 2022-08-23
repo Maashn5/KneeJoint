@@ -13,5 +13,5 @@ The knee joint contain of 4 important element
 <br/> [The stl file for the pin](https://github.com/Maashn5/KneeJoint/blob/main/knee%20joint/Pin.stl)
 <br/>
 <br/> If we assemble all of the above we will have the knee joint
-<br/> [The stl file for the knee joint](https://github.com/Maashn5/KneeJoint/blob/main/knee%20joint/Pin.stl)
+<br/> [The stl file for the pin](https://github.com/Maashn5/KneeJoint/blob/main/knee%20joint/Pin.stl)
 <br/>
