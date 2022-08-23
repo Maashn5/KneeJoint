@@ -11,7 +11,6 @@ The knee joint contain of 4 important element
 * Pin
 <br/> The benefit from the pin is to holds the 2 link togather
 <br/> [The stl file for the pin](https://github.com/Maashn5/KneeJoint/blob/main/knee%20joint/Pin.stl)
-<br/>
 * If we assemble all of the above we will have the knee joint 
 <br/> [The stl file for the pin](https://github.com/Maashn5/KneeJoint/blob/main/knee%20joint/Pin.stl)
-<br/>
+
